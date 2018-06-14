@@ -1,0 +1,10 @@
+D:\Projects\My\GitHub\cors\app\bin\Debug\netcoreapp2.0\app.deps.json
+D:\Projects\My\GitHub\cors\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.json
+D:\Projects\My\GitHub\cors\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.dev.json
+D:\Projects\My\GitHub\cors\app\bin\Debug\netcoreapp2.0\app.dll
+D:\Projects\My\GitHub\cors\app\bin\Debug\netcoreapp2.0\app.pdb
+D:\Projects\My\GitHub\cors\app\obj\Debug\netcoreapp2.0\app.csproj.CoreCompileInputs.cache
+D:\Projects\My\GitHub\cors\app\obj\Debug\netcoreapp2.0\app.AssemblyInfoInputs.cache
+D:\Projects\My\GitHub\cors\app\obj\Debug\netcoreapp2.0\app.AssemblyInfo.cs
+D:\Projects\My\GitHub\cors\app\obj\Debug\netcoreapp2.0\app.dll
+D:\Projects\My\GitHub\cors\app\obj\Debug\netcoreapp2.0\app.pdb
